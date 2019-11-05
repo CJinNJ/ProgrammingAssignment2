@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ## Caching the Inverse of a Matrix:
+=======
+## Put comments here that give an overall description of what your
+## functions do - One More Time
+>>>>>>> 7e5b4b310927c7588046fc223655fad7ef22679e
 
 ## Matrix inversion is usually a costly computation and there may 
 ## be some benefit to caching the inverse of a matrix rather than
